@@ -1,7 +1,6 @@
-**English** | [Portuguese (PT-BR)](README.md)
 
 <p align="center"><img src="" width=300px></p>
-<h2 align="center">HeinzDev NixOS Dotfiles</h2>
+<h2 align="center">NixOS Dotfiles</h2>
 
 <p align="center"><img src="" width=500px></p>
 
